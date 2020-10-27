@@ -1,0 +1,2 @@
+# AGmxLeks
+Automate GROMACS
