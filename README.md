@@ -1,5 +1,5 @@
 # AGmxLeks
-Automate GROMACS
+Automate GROMACS (NOT READY FOR USE)
 
 <h3>// DESCRIPTION <br/></h3>
 <blockquote>
@@ -32,5 +32,6 @@ Packages:
 	<li>>> gmx grompp -f em.mdp -c solv_ions.gro -p topol.top -o em.tpr </li>
 	<li>To Molecular Dynamics production: </li>
 	<li>>> gmx mdrun -deffnm md_0_10 </li>
+	<li>NOT AVAILABLE FOR USE </li>
 </ul>
 </blockquote>
