@@ -23,15 +23,3 @@ Packages:
 
 <h3>// PREPARE <br/></h3>
 <blockquote>	MDP files: NVT, NPT, MD, IONS, EM	<br/> </blockquote>
-
-<h3>// UPDATES <br/></h3>
-<blockquote>	
-27/10/2020- 
-<ul>
-	<li>Automation starts from energy minimization step: </li>
-	<li>>> gmx grompp -f em.mdp -c solv_ions.gro -p topol.top -o em.tpr </li>
-	<li>To Molecular Dynamics production: </li>
-	<li>>> gmx mdrun -deffnm md_0_10 </li>
-	<li>NOT AVAILABLE FOR USE </li>
-</ul>
-</blockquote>
